@@ -40,7 +40,7 @@ Before you can run this Spirograph simulation, you'll need to have [Processing](
 
 3. **Interact with the Simulation**:
    - Experiment with different values for `R1`, `R2`, `d`, and `theta` to create unique patterns.
-   - Press the arrow keys to adjust `R1` and `R2`.
+   - Press the space bar to generate new Spirograph patters with random parameters. 
 
 ## Credits
 

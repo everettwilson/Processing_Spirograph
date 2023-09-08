@@ -23,7 +23,7 @@ Before you can run this Spirograph simulation, you'll need to have [Processing](
 2. **Clone or Download this Repository**:
    - Clone this repository using Git:
      ```
-     git clone https://github.com/yourusername/spirograph-simulation.git
+     git clone https://github.com/everettwilson/Processing_Spirograph.git
      ```
    - Alternatively, you can download the ZIP file and extract it to your desired location.
 
@@ -32,7 +32,7 @@ Before you can run this Spirograph simulation, you'll need to have [Processing](
 1. **Open the Project**:
    - Launch Processing.
    - Click on `File > Open...` and navigate to the directory where you cloned or extracted the repository.
-   - Select the main sketch file (e.g., `spirograph_simulation.pde`) and click "Open."
+   - Select the main sketch file (e.g., `gpt_spirograph.pde`) and click "Open."
 
 2. **Run the Simulation**:
    - With the sketch open in Processing, click the "Run" button (a triangle icon) to start the simulation.
